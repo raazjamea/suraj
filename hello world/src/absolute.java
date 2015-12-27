@@ -11,6 +11,6 @@ System.out.println(Math.pow(2,3));// eg.(2)^3
 System.out.println(Math.sqrt(9));//square root of 9
 
 	System.out.println("this is add");
-	
+	System.out.println("hello added 1");
 	}
 }
